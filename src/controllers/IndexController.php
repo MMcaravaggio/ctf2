@@ -45,12 +45,12 @@ class IndexController extends Controller {
           class=
             "fb-main page--landing row-fluid no-shrink center-vertically fb-img-glitch">
           <div class="fb-container fb-centered-main">
-            <h1 class="fb-glitch" data-text={tr('Monash University')}>
-              {tr('Monash University')}
+            <h1 class="fb-glitch" data-text={tr('FIT 2093')}>
+              {tr('FIT 2093')}
             </h1>
             <p class="typed-text">
               {tr(
-                'Welcome to the Monash University Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.',
+                'Welcome to the FIT2093 Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.',
               )}
             </p>
             <div class="fb-actionable">
