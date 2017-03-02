@@ -15,3 +15,5 @@ async function genInit(): Awaitable<void> {
 
 /* HH_IGNORE_ERROR[1002] */
 \HH\Asio\join(genInit());
+
+/* test */
