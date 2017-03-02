@@ -46,7 +46,7 @@ class IndexController extends Controller {
             "fb-main page--landing row-fluid no-shrink center-vertically fb-img-glitch">
           <div class="fb-container fb-centered-main">
             <h1 class="fb-glitch" data-text={tr('FIT2098')}>
-              {tr('Conquer the world')}
+              {tr('FIT2098')}
             </h1>
             <p class="typed-text">
               {tr(
