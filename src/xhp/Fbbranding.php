@@ -8,8 +8,8 @@ class :fbbranding extends :x:element {
   protected function render(): XHPRoot {
     return
       <span class="branding-el">
-        <svg class="icon icon--globe">
-          <use href="#icon--globe" />
+        <svg class="icon icon--play">
+          <use href="#icon--play" />
         </svg>
         <span class="has-icon">{tr('Powered By Monash')}</span>
       </span>;
