@@ -11,7 +11,7 @@ class :fbbranding extends :x:element {
         <svg class="icon icon--arrow-down">
           <use href="#icon--arrow-down" />
         </svg>
-        <span class="has-icon">{tr('Powered By Monash')}</span>
+        <span class="has-icon">{tr(' Powered By Monash')}</span>
       </span>;
   }
 }
